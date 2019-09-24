@@ -1,6 +1,4 @@
-# Natural Language Processing
-
-Coding exercises for the Natural Language Processing concentration, part of Udacity's Artificial Intelligence Nanodegree program.
+# Natural Language Processing Toolkit
 
 ## Setup
 
